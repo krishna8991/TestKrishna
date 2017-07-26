@@ -1,0 +1,27 @@
+The questions were moreless like:
+
+- string immutability, equals () and hashCode() , how it works in HashMap
+
+- sleep (), wait(), notify() and notifyAll() - differences, similarities, everything related to it
+
+- regarding rest services, practical exercise : the answer is: URI cannot have variable in POST ->variable should be move to json body; additionally we should change method from POST to PUT (post is for creation, put for modification)l
+
+- easy algorithmic item: calculate missing number from unorder array of integers in range 1..n
+
+- exception and error - difference
+
+- testing frameworks
+
+- coverage libraries
+
+- how to get ConcurrentModificationException
+
+- the difference between inner and outer join in SQL
+
+- detect duplicates in an array of integers
+
+- find an index of a substring "ab" in each string
+
+- Also, couple of JMS questions (what is the difference between topic and queue and what JMS headers can be used to support request-response scenario)
+
+ 
